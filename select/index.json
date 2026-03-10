@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "SPECTRA",
+  "base_artist": "INI",
+  "createdAt": "2026-03-10T11:42:32.671715Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Junjou Spectra",
+      "artist": "Zwei",
+      "has_synced": true,
+      "path": "select/01_Junjou_Spectra_Zwei.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Junjou Spectra (Moonbug remix)",
+      "artist": "Zwei",
+      "has_synced": false,
+      "path": "select/02_Junjou_Spectra_(Moonbug_remix)_Zwei.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Junjou Spectra",
+      "artist": "Zwei",
+      "has_synced": false,
+      "path": "select/03_Junjou_Spectra_Zwei.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nuclear Spectra",
+      "artist": "Midnight Oil",
+      "has_synced": false,
+      "path": "select/04_Nuclear_Spectra_Midnight_Oil.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Spectra Spectral",
+      "artist": "Huntress",
+      "has_synced": true,
+      "path": "select/05_Spectra_Spectral_Huntress.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Spectra",
+      "artist": "Pink Skies",
+      "has_synced": true,
+      "path": "select/06_Spectra_Pink_Skies.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Entering the Spectra",
+      "artist": "Karmakanic",
+      "has_synced": false,
+      "path": "select/07_Entering_the_Spectra_Karmakanic.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Migrating Through Personality Spectra",
+      "artist": "Warshipper",
+      "has_synced": true,
+      "path": "select/08_Migrating_Through_Personality_Spectra_Warshipper.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SPECTRA - Tum Nazar Mein (Prod. By Seven & Seven) | Official Visualizer | 2021",
+      "artist": "Spectra Music",
+      "has_synced": true,
+      "path": "select/09_SPECTRA_-_Tum_Nazar_Mein_(Prod._By_Seven_&_Seven)___Official_Visualizer___2021_Spectra_Music.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Entering The Spectra {I Yellow II Blue (The Innocent) III Red IV Purple V Indigo VI Green VII White}",
+      "artist": "Karmakanic",
+      "has_synced": true,
+      "path": "select/10_Entering_The_Spectra_{I_Yellow_II_Blue_(The_Innocent)_III_Red_IV_Purple_V_Indigo_Karmakanic.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Never Let You Go (Spectra Soul Remix)",
+      "artist": "Rudimental",
+      "has_synced": false,
+      "path": "select/11_Never_Let_You_Go_(Spectra_Soul_Remix)_Rudimental.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Junjou spectra",
+      "artist": "Zwei",
+      "has_synced": true,
+      "path": "select/12_Junjou_spectra_Zwei.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Junjou Spectra",
+      "artist": "Zwei",
+      "has_synced": true,
+      "path": "select/13_Junjou_Spectra_Zwei.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Junjou Spectra (Anime ver.)",
+      "artist": "Zwei",
+      "has_synced": true,
+      "path": "select/14_Junjou_Spectra_(Anime_ver.)_Zwei.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SPECTRA",
+      "artist": "INI",
+      "has_synced": false,
+      "path": "select/pl_01_SPECTRA_INI.txt"
+    }
+  ]
+}
